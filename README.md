@@ -146,30 +146,5 @@ samples, guidance on mobile development, and a full API reference.
 </details>
 
 
-<details>
-<summary> 5.2. Test case when scanning random QR code:</summary>
-
-- Check out below random QR Codes, scan them with our app:
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/97107855/193439821-6d8c5e9c-2371-4b0c-b15e-6acc6c92e5ba.png" width="250">
-
-<img src="https://user-images.githubusercontent.com/97107855/193439818-4d4df195-70ff-4651-be34-2e3b3d761745.png" width="250">
-</p>
-
-
-</details>
-
-<details>
-<summary> 5.3. Accounts used for testing, logging-in (starting from version 1.1.0):</summary>
-
-- Please contact authors if you need accounts for testing, logging-in via email: son.tt2460M@sis.hust.edu.vn
-- Members of CTARG and MAP will be provided with an account
-
-</details>
-
-
-## 6. Authors and credits:
-In research and development process, all credits go to ***Son Tran BK (1st author), Duc Anh BK (2nd author) and CTARG LAB members***, in EEE, HUST (Hanoi University of Science and Technology), Ha Noi, Viet Nam
 
 
