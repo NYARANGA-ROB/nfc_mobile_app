@@ -13,7 +13,6 @@ class MainActivity: FlutterActivity() {
     val pendingIntent = PendingIntent.getActivity(context, 0, intent, 0)
     NfcAdapter.getDefaultAdapter(context)?.enableForegroundDispatch(this, pendingIntent, null, null)
   }
-
   override fun onPause() {
     super.onPause()
     NfcAdapter.getDefaultAdapter(context)?.disableForegroundDispatch(this)
