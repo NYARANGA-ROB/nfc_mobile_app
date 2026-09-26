@@ -4,6 +4,7 @@ import android.content.Intent
 import android.nfc.NfcAdapter
 import io.flutter.embedding.android.FlutterActivity
 
+
 /// Workaround for disabling the default-tag-detection while the app is foreg
 class MainActivity: FlutterActivity() {
   override fun onResume() {
